@@ -1,4 +1,1 @@
-# Hackhieve
-</Everything Provoded Here Is For Educational Purposes>
-</Use The Codes At Your Own Will>
-</Everything You Need Is In The Hackhieve From Shellcodes To Malware Samples To Exploits etc>
+I found this antimalware framework somewhere in cyberspace. You can untar it and view the stuff inside.
